@@ -1,2 +1,5 @@
-# Simple-Login_System
-This project is a simple login system by using Java and MySQL database, developed on Eclipse. Please read the ReadMe file for more details. 
+Login System (Java, MySQL)
+After downloading the project, firstly you need to run the query of the SQL file for the database.
+It is located under the Database package.
+For the database connection, you can check under DbConnection class.
+It is a windows software developed on Eclipse.
